@@ -1,0 +1,10 @@
+TODO:
+
+Extract each pattern into a separate class in a separate file.
+
+Add support for overlaying gradients and other graphics onto patterns.
+
+Add customizable distortions using sine waves and other configurable noise.
+
+  Distortions can affect pattern size, color, etc.
+
